@@ -2,7 +2,7 @@
   {
     "repository":  "dragonGR/device_xiaomi_msm8956-common",
     "target_path": "device/xiaomi/msm8956-common",
-    "branch":      "n7.1"
+    "branch":      "xos-7.1"
   },
   {
     "repository":  "LineageOS/android_device_qcom_common",
