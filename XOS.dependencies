@@ -5,23 +5,20 @@
     "branch":      "xos-7.1"
   },
   {
-    "repository":  "LineageOS/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch":      "cm-14.1"
-  },
-  {
-    "repository":  "dragonGR/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch":      "n7.1"
+    "repository":  "dragonGR/android_vendor_xiaomi_kenzo",
+    "target_path": "vendor/xiaomi/kenzo",
+    "branch":      "XOS-7.1"
   },
   {
     "repository":  "dragonGR/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
-    "branch":      "n7.1"
+    "branch":      "rebase/n7.1"
   },
   {
     "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch":      "cm-14.1"
+    "branch":      "cm-14.1",
+    "remote":      "github"
   }
 ]
+
