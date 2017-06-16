@@ -12,7 +12,7 @@
   {
     "repository":  "dragonGR/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
-    "branch":      "rebase/n7.1"
+    "branch":      "purge/n7.1"
   },
   {
     "repository":  "LineageOS/android_packages_resources_devicesettings",
